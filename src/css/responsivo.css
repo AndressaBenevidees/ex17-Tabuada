@@ -1,0 +1,54 @@
+@media (max-width:500px) {
+  section {
+    width: 370px;
+    margin: auto;
+  }
+
+  .botao {
+    margin: 10px 40% 0px;
+  }
+}
+
+@media (max-width:400px) {
+  section {
+    width: 300px;
+    margin: auto;
+  }
+
+  .botao {
+    margin: 10px 15% 0px;
+  }
+}
+
+@media (max-width:412px) {
+  section {
+    width: 300px;
+    margin: auto;
+  }
+
+  .botao {
+    margin: 10px 15% 0px;
+  }
+}
+
+@media (max-width:300px) {
+  section {
+    width: 280px;
+    margin: auto;
+  }
+
+  .botao {
+    margin: 10px 15% 0px;
+  }
+}
+
+@media (max-width:320px) {
+  section {
+    width: 250px;
+    margin: auto;
+  }
+
+  .botao {
+    margin: 10px 15% 0px;
+  }
+}
